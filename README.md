@@ -225,16 +225,17 @@ Donde:
 
 | Algoritmo | Aplicaciones |
 |-----------|--------------|
-| **Genético** | Optimización de horarios, diseño de circuitos, ajuste de hiperparámetros en Machine Learning |
+| **Genético** | Optimización de horarios, diseño de circuitos |
 | **ACO** | Rutas de transporte y logística, enrutamiento en redes de telecomunicaciones, planificación de tareas (*scheduling*) |
 
 ---
 
 ## Referencias
 
-- Holland, J. H. (1975). *Adaptation in Natural and Artificial Systems*
-- Dorigo, M. (1992). *Optimization, Learning and Natural Algorithms*
-- Goldberg, D. E. (1989). *Genetic Algorithms in Search, Optimization and Machine Learning*
+- **Machine Learning Mastery** (2021). *Simple Genetic Algorithm From Scratch in Python*. Una guía práctica sobre la implementación moderna de algoritmos evolutivos. Recuperado de: https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/
+- **Dorigo, M.** (2007). *Ant Colony Optimization*. Scholarpedia. (Artículo web revisado por pares, escrito por el creador original del algoritmo explicando su uso computacional moderno). Recuperado de: http://www.scholarpedia.org/article/Ant_colony_optimization
+- **Towards Data Science** (2020). *The Traveling Salesman Problem: Exploring the Ant Colony Optimization Algorithm*. Aplicación práctica de metaheurísticas a problemas NP-Hard. Recuperado de: https://towardsdatascience.com/the-traveling-salesman-problem-exploring-the-ant-colony-optimization-algorithm-ba6b91176882
+- **GeeksforGeeks** (2023). *Introduction to Genetic Algorithms*. Referencia técnica sobre operadores genéticos y funciones de *fitness*. Recuperado de: https://www.geeksforgeeks.org/genetic-algorithms/
 
 ---
 
